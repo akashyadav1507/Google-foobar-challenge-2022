@@ -6,13 +6,15 @@ Have you ever taken a trip that you have been planning for a long time, building
 >
 >Then one fine day, as I was fiddling away at some block of code, I probably got some error, or needed to look up some syntax, and as I Googled, the browser contorted to show me this message:
 
-![image](https://user-images.githubusercontent.com/35211362/213210377-40bb80b4-664e-4df6-b94b-c17a75316a90.png)
+![image](https://github.com/akashyadav1507/google-foobar-challenge-2022/blob/main/Images%20Directory./invitation.png)
 
 If you get the invite, and you like to code and like a challenge I’ll strongly recommend you take FooBar up on the offer.
 
 ---
 One other point to note, if you are comfortable with python, it might make a lot of sense to go with it, as the standard library will provide you lots of useful functions. I personally used Java, as I am more comfortable with it, and frankly I am not a big fan of Python
 
->FooBar is Google's secret recruiting process embedded within their search engine
+>FooBar is Google's secret recruiting process embedded within their search engine <br>
+
+![Alt](https://github.com/akashyadav1507/google-foobar-challenge-2022/blob/main/Images%20Directory./foobar.png)
 
 >There are 5 levels, each with a different number of challenges
